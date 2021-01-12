@@ -1,5 +1,3 @@
-# Programming_in_Csharp
-
 # Assignment 1: Hello World
 Follow the .NET Core tutorial here to create a "hello world" application on your computer. Make sure you follow the instructions to install the .NET SDK locally:
 - https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro (Links to an external site.)
